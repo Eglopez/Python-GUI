@@ -2,4 +2,4 @@
 
 ## Description
 
-This is a python GUI (Grafical User Interface) of a tree that can have n-child and the child can have n-child too.
+This is a python GUI (Grafical User Interface) of a tree that can have n-children and the children can have n-children too.
